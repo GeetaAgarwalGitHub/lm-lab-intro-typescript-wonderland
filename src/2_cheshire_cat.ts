@@ -20,7 +20,7 @@ export function meetTheCheshireCat(): void {
 	clear(true);
 
 	const theCat = new CheshireCat();
-
+	theCat.expression = '😁 Grin 😁';
 	// 👉 FIXME ❌
 	// 		Add some code here which allows you to progress *without* altering any other code in this file
 	// 👉 END FIXME ❌
